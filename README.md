@@ -31,3 +31,6 @@ Text comparison in document management systems
 # Preview
 
 ![image](https://github.com/user-attachments/assets/41519c73-2b09-4460-aaa1-6f11bc9ff8d9)
+
+![image](https://github.com/user-attachments/assets/875e37a0-b8c4-44ae-8955-bba7c33989ea)
+
