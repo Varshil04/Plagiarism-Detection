@@ -39,3 +39,7 @@ Text comparison in document management systems
 ![image](https://github.com/user-attachments/assets/1c0fe975-608b-4d3f-b1ea-6499311c57ef)
 
 The SVM is performing Well !!
+
+# An Example of Plagiarism Detected or not
+
+![image](https://github.com/user-attachments/assets/ffffd4a1-fb50-4fb7-b6a4-8e79ad861e93)
